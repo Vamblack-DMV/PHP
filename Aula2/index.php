@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipos no PHP - Aula 2</title>
+    <title>Tipos no PHP - Aula 02</title>
 </head>
 <body>
     <?php
